@@ -1,0 +1,6 @@
+{
+  "name": "Girish Properties",
+  "description": "Premium commercial real estate agency in Nehru Place, New Delhi. Specialized in office spaces, commercial property rental, and purchase solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
